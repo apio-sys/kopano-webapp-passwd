@@ -15,3 +15,7 @@
 
 	- Adapted to Kopano WebApp 3.3.0 for DB only, not tested/fixed for LDAP
 	- project renamed from zarafa-webapp-passwd to kopano-webapp-passwd
+	
+## 1.4 (6th November 2017)
+
+	- Repackaged build as 1.4 since 1.3 is not recognized as plugin in WebApp
